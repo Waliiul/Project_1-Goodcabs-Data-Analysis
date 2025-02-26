@@ -31,4 +31,5 @@ To address this, management planned to work firmly with their data analysts.
 - On the other hand few markets, products and customers are losing money for the company.
 - Hence, the company should find out the causes behind those money losing entitys. If they can be turned into a profitable state, steps should be taken to do that. Otherwise, company should get rid of those markets, products, and customers.
 Specifically <b>Bengaluru market, "Prod073", and "Cus018"</b> should be taken into consideration.
-- Morever, steps should be taken to increase the sales and profitability of <b>Delhi NCR market, "Prod329", and "Cus006"/b>.
+- Morever, steps should be taken to increase the sales and profitability of <b>Delhi NCR market, "Prod329", and "Cus006"</b>.
+
