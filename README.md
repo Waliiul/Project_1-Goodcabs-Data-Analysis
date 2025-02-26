@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/64c61d05-557c-44a6-a77f-56ac9d3901b1)
+
 # Project_1-Goodcabs-Data-Analysis
 Goodcabs, a cab service company established two years ago, has gained a strong foothold in
 the Indian market by focusing on tier-2 cities. Unlike other cab service providers, Goodcabs
